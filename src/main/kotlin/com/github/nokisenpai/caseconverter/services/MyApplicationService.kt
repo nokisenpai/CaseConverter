@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nokisenpai.caseconverter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nokisenpai.caseconverter.MyBundle
 
 class MyApplicationService {
 
